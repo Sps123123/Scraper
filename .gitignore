@@ -1,0 +1,34 @@
+﻿# ===== .NET build output =====
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# ===== Playwright / bundled runtimes =====
+.playwright/
+Client.zip
+*.pdb
+
+# ===== Logs / runtime state =====
+*.log
+startup_crash.log
+deh_ui.ini
+
+# ===== OS noise =====
+Thumbs.db
+.DS_Store
+
+# ===== Generated CSVs =====
+*_with_contacts.csv
+*_with_contacts_analyzed.csv
+*_analyzed.csv
+*_revalidated.csv
+*.csv.tmp
+maps_bulk_results.csv
+Testing - Sheet19 (1) (1).csv
+Testing - Sheet19 - formatted.csv
+Testing - Sheet19 (1) (1).csv
+Testing - Sheet19 - formatted.csv
+Testing - Sheet19 (1) (1).csv
+Testing - Sheet19 - formatted.csv
